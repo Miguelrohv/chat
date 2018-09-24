@@ -1,0 +1,8 @@
+{
+  "name": "Chattest",
+  "description": "Testing deployment of node",
+  "repository": "https://github.com/Miguelrohv/chat.git",
+  "logo": "",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
